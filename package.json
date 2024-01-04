@@ -1,0 +1,40 @@
+{
+  "name": "expo-react-native-victory",
+  "title": "Expo React Native Victory",
+  "version": "1.0.0",
+  "description": "本库为 expo 和 react native 项目提供Victory用于实现图标功能，增加了对react-native-web的支持。",
+  "main": "src/index",
+  "files": [
+    "README.md",
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeng-zhiming/expo-react-native-victory.git",
+    "baseUrl": "https://github.com/zeng-zhiming/expo-react-native-victory"
+  },
+  "keywords": [
+    "victory",
+    "victory-native",
+    "react-native",
+    "react",
+    "expo",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "zeng-zhiming",
+    "email": "171314432@qq.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "victory-native": "~36.7.0"
+  },
+  "devDependencies": {
+  }
+}
